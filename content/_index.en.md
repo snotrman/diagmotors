@@ -1,6 +1,6 @@
 ---
 toc: false
-title: 'LPG Installation, Maintenance, Consultation, Sales'
+title: 'Car service, gas system service'
 ---
 
 {{< cards >}}

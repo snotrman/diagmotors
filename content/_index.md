@@ -1,6 +1,6 @@
 ---
 toc: false
-title: 'Autogāzes Uzstādīšana, Apkope, Konsultēšana, Tirdzniecība'
+title: 'Autoserviss, Gāzes Serviss'
 ---
 
 {{< cards >}}
