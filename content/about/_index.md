@@ -5,10 +5,10 @@ title: Par Mums
 ---
 
 {{< callout type="info" title="Uzņēmuma vēsture" >}}
-**Dibināts 1997. gadā**, Diagmotors ir **Latvijas vadošais autogāzes uzstādītājs**.
+**Dibināts 1997. gadā**, Diagmotors – **vadošais autogāzes (LPG) uzstādītājs Latvijā** un **pilna servisa auto remonta centrs**.
 {{< /callout >}}
 
-## Mūsu darbības virzieni
+## Galvenās darbības jomas
 
 {{< cards >}}
 {{< card image="/uploads/488593890_2589685611236073_5015990888607636906_n.jpg" method="Resize" options="600x q80 webp" >}}
@@ -17,30 +17,34 @@ title: Par Mums
 
 {{% steps %}}
 
-### Uzstādīšana un apkope
+### Autoremonts un apkope
 
-Mūsdienīgu gāzes sistēmu uzstādīšana un serviss (LPG).
+**Visu veidu auto remonts:**\
+✅ Remonts un apkope **dzinekļiem**\
+✅ **Gaisa kondicionieru uzpilde**\
+✅ Diagnostika **benzīna un dīzeļdzinējiem**\
+✅ **Piekares remonts**\
+✅ **LPG sistēmu uzstādīšana un apkope**
 
 ### Tirdzniecība
 
-LPG iekārtu un detaļu **mazumtirdzniecība un vairumtirdzniecība**.
+**Mazumtirdzniecība un vairumtirdzniecība** LPG aprīkojuma un detaļām.
 
 ### Apmācība
 
-LPG uzstādīšanas speciālistu **sertificēta apmācība**.
+**Sertificēta apmācība** LPG uzstādīšanas speciālistiem.
 {{% /steps %}}
 
 ## Mūsu sasniegumi
 
-* **Baltijas reģiona pionieri:** Pirmais uzņēmums Baltijā, kas **sertificēja LPG risinājumus dīzeļdzinējiem**.
-* **Tehnoloģiskais progress:** Esam ieviesuši **jaunākās paaudzes LPi un LPdi** sistēmas.
-* **Ekspertu apmācība:** Mūsu komanda sastāv no **augsti kvalificētiem speciālistiem** ar starptautisku pieredzi LPG uzstādīšanā.
-* **Garantijas serviss:** **5 gadi vai 100 000 km** uz visām uzstādītajām sistēmām.
+* **Baltijas reģiona pionieri:** Pirmā uzņēmuma Baltijā, **kas sertificējis LPG risinājumus dīzeļdzinējiem**.
+* **Tehnoloģiskais progress:** Mēs ieviesām **jaunākās LPi un LPdi sistēmas**.
+* **Ekspertu apmācība:** Mūsu komanda sastāv no **augsti kvalificētiem speciālistiem** ar starptautisku pieredzi.
+* **Garantijas serviss:** **5 gadi vai 100 000 km** visām uzstādītajām sistēmām.
 
-## Oficiālais izplatītājs Latvijā Poļu, Itāļu un Nīderlandes LPG zīmoliem:
+## Oficiālais dīleris Polijas, Itālijas un Nīderlandes LPG zīmoliem Latvijā:
 
 {{% details title="Zīmolu saraksts" closed="true" %}}
-
 ✅ **Elpigaz**\
 ✅ **A.E.V.**\
 ✅ **Vialle**\
@@ -62,12 +66,11 @@ LPG uzstādīšanas speciālistu **sertificēta apmācība**.
 ✅ **JLM Lubricants**\
 ✅ **Tomasetto Achille**\
 ✅ **Rosso**
-
 {{% /details %}}
 
-## Klienti un sadarbības partneri
+## Klienti un partneri
 
-{{% details title="Sadarbības Partneru Saraksts" closed="true" %}}
+{{% details title="Partneru saraksts" closed="true" %}}
 
 * **Baltic Taxi**
 * **SmileTaxi**
@@ -76,21 +79,20 @@ LPG uzstādīšanas speciālistu **sertificēta apmācība**.
 * **WESS Motors**
 * **TC Motors**
 * **Abora**
-
-{{% /details %}}
+  {{% /details %}}
 
 ## Dīleru tīkls
 
-📍 **Rīgā**\
-📍 **Daugavpilī**\
-📍 **Valmierā**\
-📍 **Madonā**\
-📍 **Plašs sadarbības partneru tīkls visā Latvijā**\
+📍 **Rīga**\
+📍 **Daugavpils**\
+📍 **Valmiera**\
+📍 **Madona**\
+📍 **Plašs partneru tīkls visā Latvijā**\
 
-## Mūsu attīstības vīzija
+## Mūsu nākotnes vīzija
 
-{{< callout type="tip" title="Skats nākotnē" >}}
-Diagmotors **neapstājas pie sasniegtā** – mēs **pastāvīgi pilnveidojamies**,\
-ieviešot **jaunas tehnoloģijas**, paplašinot **servisa centru tīklu** un\
-nodrošinot **labāko apkalpošanas kvalitāti** Baltijas reģionā.
+{{< callout type="tip" title="Uzņēmuma attīstība" >}}
+Diagmotors **neapstājas pie sasniegtā** – mēs **pastāvīgi attīstāmies**,\
+ieviešot **jaunas tehnoloģijas**, paplašinot **servisa centru tīklu**,\
+un nodrošinot **labāko servisa kvalitāti Baltijas reģionā**.
 {{< /callout >}}

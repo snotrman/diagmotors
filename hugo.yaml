@@ -71,13 +71,13 @@ params:
 
   navbar:
     logo:
-      path: images/logo.svg
-      dark: images/logo.svg
-      width: 200
+      path: images/logo.png
+      dark: images/logo.png
+      width: 100
       # height: 200
       link: /
       # width: wide
-    displayTitle: false
+    displayTitle: true
     displayLogo: true
 
   page:
