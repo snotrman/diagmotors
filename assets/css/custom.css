@@ -1,0 +1,19 @@
+/* h1, h2 {
+    color: #5c412d !important;
+}
+
+h3, h4, h5, h6 {
+  color: #3a2b1f !important;
+}
+
+a > span {
+  color: #5c412d !important;
+}
+
+a.active > span, a:hover > span, a:focus > span {
+  color: #2e4431 !important;
+}
+
+a, span, p{
+    color: #19291b !important;
+} */

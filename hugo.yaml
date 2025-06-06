@@ -1,0 +1,102 @@
+# Hugo configuration file
+title: AGSystems
+
+# import hextra as module
+
+theme: hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+defaultContentLanguage: lv
+languages:
+  lv:
+    languageName: Latviešu
+    weight: 1
+  ru:
+    languageName: Русский
+    weight: 2
+  en:
+    weight: 3
+    languageName: English
+
+menu:
+  main:
+    # - identifier: documentation
+    #   name: Docs
+    #   pageRef: /docs
+    #   weight: 1
+    - identifier: about
+      name: About
+      pageRef: /about
+      weight: 2
+    - identifier: offers
+      name: Offers
+      pageRef: /offers
+      weight: 1
+    # - identifier: posts
+    #   name: Posts
+    #   pageRef: /posts
+    #   weight: 1
+    - identifier: contact
+      name: Contact
+      pageRef: /contact
+      weight: 3
+    - identifier: search
+      name: Search
+      weight: 4
+      params:
+        type: search
+    - name: Facebook
+      weight: 5
+      url: "https://www.facebook.com/p/AG-systems-100054471579837/"
+      params:
+        icon: facebook
+    # - name: Twitter
+    #   weight: 6
+    #   url: "https://twitter.com/"
+    #   params:
+    #     icon: x-twitter
+
+params:
+  description: AGSystems - Autogāze
+  
+
+  navbar:
+    logo:
+      path: images/logo.svg
+      dark: images/logo.svg
+      width: 200
+      # height: 200
+      link: /
+      # width: wide
+    displayTitle: false
+    displayLogo: true
+
+  page:
+    # full (100%), wide (90rem), normal (80rem)
+    width: full
+
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: true
+    
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
+
+
+  editURL:
+    enable: true
+    base: "https://agsystems.lv"
+
+
+
