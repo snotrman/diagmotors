@@ -5,7 +5,7 @@ title: Par Mums
 ---
 
 {{< callout type="info" title="Uzņēmuma vēsture" >}}
-**Dibināts 1997. gadā**, AGSystems ir **Latvijas vadošais autogāzes uzstādītājs**.
+**Dibināts 1997. gadā**, Diagmotors ir **Latvijas vadošais autogāzes uzstādītājs**.
 {{< /callout >}}
 
 ## Mūsu darbības virzieni
@@ -90,7 +90,7 @@ LPG uzstādīšanas speciālistu **sertificēta apmācība**.
 ## Mūsu attīstības vīzija
 
 {{< callout type="tip" title="Skats nākotnē" >}}
-AGSystems **neapstājas pie sasniegtā** – mēs **pastāvīgi pilnveidojamies**,\
+Diagmotors **neapstājas pie sasniegtā** – mēs **pastāvīgi pilnveidojamies**,\
 ieviešot **jaunas tehnoloģijas**, paplašinot **servisa centru tīklu** un\
 nodrošinot **labāko apkalpošanas kvalitāti** Baltijas reģionā.
 {{< /callout >}}

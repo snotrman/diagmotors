@@ -1,5 +1,5 @@
 {
-  "name": "agsystems",
+  "name": "diagmotors",
   "version": "1.0.0",
   "description": "[![Deploy Hugo site to Pages](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml/badge.svg)](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml)\r [![Netlify Status](https://api.netlify.com/api/v1/badges/6e83fd88-5ffe-4808-9689-c0f3b100bfe3/deploy-status)](https://app.netlify.com/sites/hextra-starter-template/deploys)\r ![Vercel Deployment Status](https://img.shields.io/github/deployments/imfing/hextra-starter-template/production?logo=vercel&logoColor=white&label=vercel&labelColor=black&link=https%3A%2F%2Fhextra-starter-template.vercel.app%2F)",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snotrman/agsystems.git"
+    "url": "git+https://github.com/snotrman/diagmotors.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/snotrman/agsystems/issues"
+    "url": "https://github.com/snotrman/diagmotors/issues"
   },
-  "homepage": "https://github.com/snotrman/agsystems#readme",
+  "homepage": "https://github.com/snotrman/diagmotors#readme",
   "devDependencies": {
     "@tinacms/cli": "^1.9.8",
     "@types/node": "^22.15.29"

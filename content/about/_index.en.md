@@ -5,7 +5,7 @@ title: About
 ---
 
 {{< callout type="info" title="Company History" >}}
-**Founded in 1997**, AGSystems is **Latvia’s leading LPG installer**.
+**Founded in 1997**, Diagmotors is **Latvia’s leading LPG installer**.
 {{< /callout >}}
 
 ## Our Fields of Activity
@@ -90,7 +90,7 @@ Installation and servicing of modern **LPG gas systems**.
 ## Our Vision for Growth
 
 {{< callout type="tip" title="Looking Ahead" >}}
-AGSystems **does not stop at its achievements** – we **continuously improve**,\
+Diagmotors **does not stop at its achievements** – we **continuously improve**,\
 introducing **new technologies**, expanding **our service center network**,\
 and ensuring the **highest quality of service in the Baltic region**.
 {{< /callout >}}
