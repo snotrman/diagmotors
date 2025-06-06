@@ -5,7 +5,7 @@ title: Kontakti
 
 ## Adrese
 
-📍 **Maza Krasta 79, Rīga, Latvija, LV 1003**
+📍 **Toma iela 9, Rīga, Latvija, LV 1003**
 
 ## Tālrunis
 
