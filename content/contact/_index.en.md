@@ -5,7 +5,7 @@ title: Contacts
 
 ## Address
 
-📍 **Maza Krasta 79, Riga, Latvia, LV 1003**
+📍 **Toma iela 9, Riga, Latvia, LV 1003**
 
 ## Phone
 
