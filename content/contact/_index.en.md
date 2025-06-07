@@ -5,7 +5,7 @@ title: Contacts
 
 ## Address
 
-📍 **Toma iela 9, Riga, Latvia, LV 1003**
+📍 **Krasta 79, box 3, Riga, Latvia, LV 1003**
 
 ## Phone
 
@@ -15,7 +15,7 @@ Alexander
 
 ## Working Hours
 
-🕒 **Monday–Friday: 9:00 AM – 6:00 PM**
+🕒 **Monday–Friday: 10:00 AM – 7:00 PM**
 
 ## Kartē
 

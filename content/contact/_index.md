@@ -5,7 +5,7 @@ title: Kontakti
 
 ## Adrese
 
-📍 **Toma iela 9, Rīga, Latvija, LV 1003**
+📍 **Krasta 79, 3 boks, Rīga, Latvija, LV 1003**
 
 ## Tālrunis
 
@@ -15,7 +15,7 @@ Aleksandrs
 
 ## Darba Laiks
 
-🕒 **Pirmdiena–Piektdiena: 9:00 – 18:00**
+🕒 **Pirmdiena–Piektdiena: 10:00 – 19:00**
 
 ## Kartē
 
