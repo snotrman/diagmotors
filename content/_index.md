@@ -14,7 +14,5 @@ title: 'Autoserviss, Gāzes Serviss'
 {{< card link="/" title="Kravas Automašīnu LPG/CNG" image="/uploads/487955180_2589533567917944_6611348463232602298_n.jpg" subtitle="Autogāzes uzstādīšana, apkope, remonts, regulēšana, konsultēšana kravas automašīnām virs 3.5 tonnam..." >}}
 {{< card link="/" title="Gāze Dīzelis" image="/uploads/487855507_2589533417917959_4066636879837080268_n.jpg" subtitle="Gāzes iekārtu uzstādīšana, apkope, remonts, regulēšana, konsultēšana dīzeļa dzinējiem..." >}}
 {{< card link="/" title="Gāze Hibrīds" image="/uploads/488218639_2589686991235935_5782301142669499299_n.jpg" subtitle="Gāzes iekārtu uzstādīšana, apkope, remonts, regulēšana, konsultēšana hibrīda dzinējiem..." method="Resize" options="600x q80 webp" tag="3.74€/100km" tagType="info">}}
-{{< card link="/" title="Gāzes Sistēmu Un Detaļu Tirdzniecība" image="/uploads/488399922_2589533447917956_5615675923738251079_n.jpg" subtitle="Zenit, Elpigaz, LPGTech, Barracuda, AG Centrum, Autronic Sistemi Elettronici, OMVL, AEB, Rail, Optima, MoreMo, PolmoCon, JLM Lubricants, Tomasetto Achille un Rosso komponentēm " >}}
 {{< card link="/" title="Konsultēšana Un Palīdzība Visos Ar Autogāzi Saistīajos Jautājumos" image="/uploads/Vialle-LPi.webp" subtitle="Iepazīstaties ar mūsu dokumentāciju" >}}
-{{< card link="/" title="Sadarbības iespējas" image="/uploads/sadarbiba.png" subtitle="Esam atvērti piedāvājumiem..." method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
