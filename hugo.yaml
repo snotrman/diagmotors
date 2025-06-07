@@ -37,9 +37,9 @@ menu:
       name: About
       pageRef: /about
       weight: 2
-    - identifier: offers
-      name: Offers
-      pageRef: /offers
+    - identifier: services
+      name: Services
+      pageRef: /services
       weight: 1
     # - identifier: posts
     #   name: Posts

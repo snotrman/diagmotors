@@ -15,7 +15,7 @@ title: Par Mums
 {{< card image="/uploads/487856436_2588338974704070_5337712331487823072_n.jpg" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
 
-{{% steps %}}
+
 
 ### Autoremonts un apkope
 
@@ -26,14 +26,6 @@ title: Par Mums
 ✅ **Piekares remonts**\
 ✅ **LPG sistēmu uzstādīšana un apkope**
 
-### Tirdzniecība
-
-**Mazumtirdzniecība un vairumtirdzniecība** LPG aprīkojuma un detaļām.
-
-### Apmācība
-
-**Sertificēta apmācība** LPG uzstādīšanas speciālistiem.
-{{% /steps %}}
 
 ## Mūsu sasniegumi
 
@@ -67,19 +59,6 @@ title: Par Mums
 ✅ **Tomasetto Achille**\
 ✅ **Rosso**
 {{% /details %}}
-
-## Klienti un partneri
-
-{{% details title="Partneru saraksts" closed="true" %}}
-
-* **Baltic Taxi**
-* **SmileTaxi**
-* **Taksi.lv**
-* **Latvijas Propāna Gāze**
-* **WESS Motors**
-* **TC Motors**
-* **Abora**
-  {{% /details %}}
 
 ## Dīleru tīkls
 
