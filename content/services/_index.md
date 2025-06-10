@@ -17,7 +17,7 @@ title: Piedāvājums
 | ![](/uploads/489021646_2589686941235940_4028842259320276363_n.jpg) |
 | ------------------------------------------------------------------ |
 
-* **LPG uzstādīšana, 2 gadu garantija** – Gāzes sistēmu uzstādīšana benzīna, dīzeļa un hibrīdajiem dzinējiem. Aptver **1.–6. paaudzes LPG sistēmas**.
+* **LPG uzstādīšana, 2 gadu / 60'000km garantija** – Gāzes sistēmu uzstādīšana benzīna, dīzeļa un hibrīdajiem dzinējiem. Aptver **1.–6. paaudzes LPG sistēmas**.
 * **LPG sistēmas apkope** – Pilna apkope un **gāzes sistēmu remonts**, ar ātru tajā pašā dienā pieejamu servisu.
 * **LPG ECU regulēšana** – **Degvielas iesmidzināšanas regulēšana braucot**, uzlabojot **degvielas ekonomiju, dzinēja ilgmūžību un veiktspēju** (īpaši turbomotoru gadījumā).
   * **Līdz 20% vairāk kW**.

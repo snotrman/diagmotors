@@ -32,7 +32,7 @@ title: Par Mums
 * **Baltijas reģiona pionieri:** Pirmā uzņēmuma Baltijā, **kas sertificējis LPG risinājumus dīzeļdzinējiem**.
 * **Tehnoloģiskais progress:** Mēs ieviesām **jaunākās LPi un LPdi sistēmas**.
 * **Ekspertu apmācība:** Mūsu komanda sastāv no **augsti kvalificētiem speciālistiem** ar starptautisku pieredzi.
-* **Garantijas serviss:** **5 gadi vai 100 000 km** visām uzstādītajām sistēmām.
+* **Garantijas serviss:** **2 gadi vai 60 000 km** visām uzstādītajām sistēmām.
 
 ## Oficiālais dīleris Polijas, Itālijas un Nīderlandes LPG zīmoliem Latvijā:
 

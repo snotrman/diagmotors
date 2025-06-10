@@ -5,7 +5,7 @@ title: Kontakti
 
 ## Adrese
 
-📍 **Krasta 79, 3 boks, Rīga, Latvija, LV 1003**
+📍 **Mazā Krasta 79, 3 boks, Rīga, Latvija, LV 1003**
 
 ## Tālrunis
 

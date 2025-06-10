@@ -18,7 +18,7 @@ title: Services
 | ![](/uploads/489021646_2589686941235940_4028842259320276363_n.jpg) |
 | ------------------------------------------------------------------ |
 
-* **LPG Installation, 2-Year Warranty** – Installation of gas systems for petrol, diesel, and hybrid engines. Covers **1st to 6th generation LPG systems**.
+* **LPG Installation, 2-Year / 60'000km Warranty** – Installation of gas systems for petrol, diesel, and hybrid engines. Covers **1st to 6th generation LPG systems**.
 * **LPG System Maintenance** – Full maintenance and **repair of gas systems**, with quick same-day service.
 * **LPG ECU Adjustment** – **Injection adjustment while driving** for better **fuel economy, engine longevity, and performance** (especially for turbo engines).
   * **Up to 20% more kW**.

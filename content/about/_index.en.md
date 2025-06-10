@@ -28,7 +28,7 @@ title: About
 * **Baltic region pioneers:** The first company in the Baltics **to certify LPG solutions for diesel engines**.
 * **Technological advancement:** We introduced **the latest LPi and LPdi systems**.
 * **Expert training:** Our team consists of **highly qualified specialists** with international experience.
-* **Warranty service:** **5 years or 100,000 km** on all installed systems.
+* **Warranty service:** **2 years or 60,000 km** on all installed systems.
 
 ## Official Dealer of Polish, Italian, and Dutch LPG Brands in Latvia:
 
